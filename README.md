@@ -1,8 +1,6 @@
 ## Hi, I'm Meryem ✨
 
-🎓 Computer Engineering Student at Karabuk University<br/>
-🤖 AI Enthusiast<br/>
-🌟 Hi! I'm Meryem Azreg, a final-year computer engineering student passionate about artificial intelligence, deep learning, and computer vision. My projects focus on real-world applications such as smoking detection in restricted areas, OCR systems, and image generation with Stable Diffusion. I'm always exploring new technologies and building smart, practical solutions.<br/>
+<br/>
 
 
 ## 🌐 Socials:
